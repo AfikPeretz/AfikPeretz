@@ -8,4 +8,6 @@
 - 💬 Ask me about Ecommerce
 - 📫 How to reach me: Afikperetz5235@gmail.com
 - ⚡ Fun fact: I really like animals and I have a dog and parrots :)
-img src = "https://github-readme-stats.vercel.app/api?AfikPeretz=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfikPeretz)](https://github.com/anuraghazra/github-readme-stats)
